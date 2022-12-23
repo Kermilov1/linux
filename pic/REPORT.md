@@ -185,6 +185,28 @@ pid процесса занимающего больше всего памяти
 pid процесса, занимающего больше всего процессорного времени: 1189
 ![screen](part9-1.png)
 
+отсортированному по PID
+![screen](part9-4.png)
+
+отсортированному по PERCENT_CPU
+![screen](part9-5.png)
+
+отсортированному по PERCENT_MEM
+![screen](part9-6.png)
+
+отсортированному по TIME
+![screen](part9-7.png)
+
+отфильтрованному для процесса sshd
+![screen](part9-8.png)
+
+с процессом syslog, найденным, используя поиск
+![screen](part9-9.png)
+
+с добавленным выводом hostname, clock и uptime
+![screen](part9-10.png)
+![screen](part9-11.png)
+
 ## Part 10. Использование утилиты **fdisk**
 
 1.  название жесткого диска /dev/sda
